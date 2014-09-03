@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   and services enhance efficiency and profitability for all major
   segments of the automotive retail industry, including dealers,
   lenders, OEMs, third-party retailers, agents, and aftermarket
-  providers. <a href="http://www.dealertrack.com/portal/aboutus/">read more</a>
+  providers.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://dealertrack.github.io" # the base hostname & protocol for your site
 twitter_username: DT_Careers
